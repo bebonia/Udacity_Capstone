@@ -62,10 +62,12 @@ Ensure Spacy has been installed properly (refer to Packages)
 ---
 From the strategy we have identified the best model utilizing 6 topics with a coherence score of ~0.48.
 
-From the visuals produced by pyLDAvis as well as looking the T-SNE Visualisation and SVD visualisation we can see theeperation between topics as well as see complaints who share similar themes.
+From the visuals produced by pyLDAvis as well as looking the T-SNE Visualisation we can see the seperation between complaints as well as see complaints who share similar themes.
 
 Relative to our baseline model we have seen in improvement from a metric perspective (greater coherence score).
 
-
+# Blog
+---
+Link to medium blog https://bienebonia.medium.com/finding-topics-in-customer-complaints-using-lda-ba44b0dd94d2
 
 
